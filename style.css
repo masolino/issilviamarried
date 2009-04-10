@@ -1,0 +1,30 @@
+html, body, p {
+  margin:0;
+  padding:0;
+  border:0;
+  font-weight:inherit;
+  font-style:inherit;
+  font-size:100%;
+  font-family:inherit;
+  vertical-align:baseline;
+}
+
+body {
+  text-align: center;
+  margin: 10em auto;
+  font-size:75%;
+  color:#222;
+  background:#fff;
+  font-family: Helvetica, Arial
+}
+
+#verdict {
+  font-size: 13em;
+  font-weight: bold;
+  letter-spacing: -7px;
+}
+
+#cntdwn {
+  font-size: 2em;
+  color: #888888;
+}
