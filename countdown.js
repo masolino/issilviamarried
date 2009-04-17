@@ -20,6 +20,8 @@ FinishMessage = "It is finally here!";
 <script language="JavaScript" src="http://scripts.hashemian.com/js/countdown.js"></script>
 */
 
+/* Quando la data è stata raggiunta cambia il CountStepper = 1, cambia il messaggio in YES e DisplayFormat = "Since %%D%% Days, %%H%% Hours, %%M%% Minutes, %%S%% Seconds" */
+
 TargetDate = "08/01/2009 12:00 PM";
 CountActive = true;
 CountStepper = -1;
