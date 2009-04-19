@@ -29,9 +29,18 @@ body {
   color: #888888;
 }
 
+.comments {
+  width: 45em;
+  margin: 0 auto
+}
+
 .comments h1 {
   font-family: Georgia;
   color: #999;
   margin: 4em 0 1em;
   font-style: italic;
+}
+
+.dsq-auth-header, .dsq-by, #post-choices, .dsq-item-cp {
+  display: none;
 }
