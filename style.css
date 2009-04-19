@@ -44,6 +44,6 @@ body {
 #post-choices {
   display: none;
 }
-.dsq-auth-header, .dsq-by, .dsq-item-cp {
+.dsq-auth-header, .dsq-by, .dsq-item-cp, .dsq-item-feed {
   display: none;
 }
