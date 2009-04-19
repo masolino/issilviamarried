@@ -41,6 +41,9 @@ body {
   font-style: italic;
 }
 
-.dsq-auth-header, .dsq-by, #post-choices, .dsq-item-cp {
+#post-choices {
+  display: none;
+}
+.dsq-auth-header, .dsq-by, .dsq-item-cp {
   display: none;
 }
