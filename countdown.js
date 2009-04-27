@@ -22,7 +22,7 @@ FinishMessage = "It is finally here!";
 
 /* Quando la data è stata raggiunta cambia il CountStepper = 1, cambia il messaggio in YES e DisplayFormat = "Since %%D%% Days, %%H%% Hours, %%M%% Minutes, %%S%% Seconds" */
 
-TargetDate = "08/01/2009 12:00 PM";
+TargetDate = "08/01/2009 11:00 AM";
 CountActive = true;
 CountStepper = -1;
 LeadingZero = false;
