@@ -24,9 +24,9 @@ FinishMessage = "It is finally here!";
 
 TargetDate = "08/01/2009 11:00 AM";
 CountActive = true;
-CountStepper = -1;
+CountStepper = 1;
 LeadingZero = false;
-DisplayFormat = "Only %%D%% Days, %%H%% Hours, %%M%% Minutes, %%S%% Seconds to go.";
+DisplayFormat = "Since %%D%% Days, %%H%% Hours, %%M%% Minutes, %%S%% Seconds.";
 FinishMessage = "YES";
 
 function calcage(secs, num1, num2) {
