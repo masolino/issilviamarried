@@ -47,3 +47,5 @@ body {
 .dsq-auth-header, .dsq-by, .dsq-item-cp, .dsq-item-feed {
   display: none;
 }
+
+img { margin-top: 2em; }
